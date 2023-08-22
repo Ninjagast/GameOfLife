@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Steven/source/repos/TheGameOfLive/Content/empty.png","C:/Users/Steven/source/repos/TheGameOfLive/Content/bin/DesktopGL/empty.xnb","TextureProcessor","Texture2DContent",210,10085,0.1090877
+"C:/Users/Steven/source/repos/TheGameOfLive/Content/tile.png","C:/Users/Steven/source/repos/TheGameOfLive/Content/bin/DesktopGL/tile.xnb","TextureProcessor","Texture2DContent",242,10085,0.004002
